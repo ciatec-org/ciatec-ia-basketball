@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # 1. PAGE CONFIGURATION
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="CIATec Neuro-Symbolic Basketball Platform",
+    page_title="CIATec Neuro-Symbolic Basketball Prediction Platform",
     page_icon="🏀",
     layout="wide",
     initial_sidebar_state="expanded"
