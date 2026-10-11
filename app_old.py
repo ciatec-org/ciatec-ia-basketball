@@ -178,7 +178,7 @@ with col_exp1:
     st.pyplot(fig)
 
 with col_exp2:
-    st.subheader("Avaliação de Conformidade FAIR")
+    st.subheader("Avaliação de Conformidade FAIR principles")
     st.markdown("""
     * **[F] Findable:** 100% — URIs semânticas mapeadas via RDF.
     * **[A] Accessible:** 100% — SPARQL e protocolo HTTP aberto.
